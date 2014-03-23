@@ -1,6 +1,6 @@
 超暴力 /8 GFW 境外路由列表（部分），用于 AnyConnect
 
-由于AnyConnect能够下发的路由表有限，所以无法做到准确，只求基本覆盖全部被墙IP段
+由于AnyConnect能够下发的路由表有限（最多64条），所以无法做到准确，只求基本覆盖全部被墙IP段
 
 结合 https://its.pku.edu.cn/oper/liebiao.jsp 人肉整理
 
