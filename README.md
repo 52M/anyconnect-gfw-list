@@ -1,8 +1,13 @@
-GFW 境外列表（部分），可用于设置路由表走 VPN
+超暴力 /8 GFW 境外路由列表（部分），用于 AnyConnect
 
-指向 CDN 的网站没有包含进去。
+由于AnyConnect能够下发的路由表有限，所以无法做到准确，只求基本覆盖全部被墙IP段
 
-严重不全，欢迎补充。
+结合 https://its.pku.edu.cn/oper/liebiao.jsp 人肉整理
+
+相关可用资源：
+
+熊猫翻滚  ： https://www.pandafan.org
+白名单PAC ： https://www.pandafan.org/pac/index.html
 
 
 
